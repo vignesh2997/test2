@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9715" started-at="2022-03-10T11:58:50Z" finished-at="2022-03-10T11:59:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9715" started-at="2022-03-10T11:58:50Z" finished-at="2022-03-10T11:59:00Z">
+      <class name="testpage.homepagetest">
+        <test-method status="PASS" signature="dressbox()[pri:0, instance:testpage.homepagetest@46cdf8bd]" name="dressbox" duration-ms="7328" started-at="2022-03-10T11:58:51Z" finished-at="2022-03-10T11:58:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dressbox -->
+        <test-method status="PASS" signature="womenBox()[pri:0, instance:testpage.homepagetest@46cdf8bd]" name="womenBox" duration-ms="2172" started-at="2022-03-10T11:58:58Z" finished-at="2022-03-10T11:59:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womenBox -->
+      </class> <!-- testpage.homepagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
