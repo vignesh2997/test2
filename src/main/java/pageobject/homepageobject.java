@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class homepageobject extends basepage {
 	
-	int qa= 10;
+	int q= 10;
 
 
 	@FindBy(xpath="//*[@id=\"block_top_menu\"]/ul/li[1]/a")
